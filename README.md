@@ -1,4 +1,4 @@
-# KPMG-Data-Anlalytics-Virtual-Internship
+# KPMG-Data-Analytics-Virtual-Internship
 This repository contains related work for the tasks assigned during the Data Analytics Consulting Virtual Internship offered by KPMG with Forage.
 The link to the internship : https://in.insidesherpa.com/virtual-internships/theme/m7W4GMqeT3bh9Nb2c/KPMG-Data-Analytics-Virtual-Internship
 
